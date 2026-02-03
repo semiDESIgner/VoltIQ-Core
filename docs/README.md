@@ -7,3 +7,4 @@
 
  ESP32 ──SPI──> TFT LCD
  ESP32 ──GPIO─> MOSFET/Relay control (power path / load switching)
+Please look at the code view to understand the architecture clearly
